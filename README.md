@@ -6,6 +6,9 @@
 - 👀 I'm interested in software development and design.
 - 🌱 I'm currently improving my skills in blockchain.
 - 💬 I speak English, Chinese and Japanese.
+- ⏱ Flexible working timezone.
+- 🍻 Excellent communication skills.
+- 💼 Full-time job oriented.
 
 
 <h2>My stack :man_technologist:</h2>
