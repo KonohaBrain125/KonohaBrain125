@@ -1,5 +1,5 @@
 <h1>Hi! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=1F37F7&background=FFD22800&center=true&vCenter=true&width=850&lines=I+am+a +skilled+Full+stack+web+developer!+;I+am+a+Front+End+Developer+;I+am+a+Back+End+Developer+;Always+learning+new+things" alt="Typing SVG" /></a></h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=6000&size=28&duration=5304&pause=1000&color=1F37F7&background=FFD22800&center=true&vCenter=true&width=850&lines=I+am+a +skilled+Full+stack+web+developer!+;Mobile+&+Blockchain+Developer!+;Always+learning+new+things" alt="Typing SVG" /></a></h1>
 <h3>Web, Mobile, and Full stack developer.</h3>
 
 - 💞️ Coding(); Sleep(); Eat(); Repeat();
