@@ -6,6 +6,8 @@
 - 👀 I'm interested in software development and design.
 - 🌱 I'm currently improving my skills in blockchain.
 - 💬 I speak English, Chinese and Japanese.
+
+- 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP
 - ⏱ Flexible working timezone.
 - 🍻 Excellent communication skills.
 - 💼 Full-time job oriented.
